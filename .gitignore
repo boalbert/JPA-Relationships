@@ -1,0 +1,13 @@
+.idea/.gitignore
+.idea/checkstyle-idea.xml
+.idea/compiler.xml
+.idea/dataSources.xml
+.idea/dataSources/
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+JPA-Relationships.iml
+pom.xml
+target/
